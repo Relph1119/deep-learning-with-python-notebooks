@@ -11,7 +11,7 @@
 7. 由于笔者的电脑配置不行，推荐大家租用GPU服务器来运行示例代码，租用方式链接：https://mp.weixin.qq.com/s?__biz=MzU0NjczNTg2NQ==&mid=2247486813&idx=2&sn=93e72cdf73675df69bcbe32de057f6dc&chksm=fb585ecbcc2fd7ddf3858cff26be550e37b578fb522446e7fcf1b71f2f0788231f730cc9f03c&token=1693266535&lang=zh_CN#rd
 
 ## 选用的《Python深度学习》版本
-<img src="./resources/deep-learning-with-python-book.png" width="336" height= "500">
+<img src="./resources/deep-learning-with-python-book.png" width="336" height= "393">
 
 
 > 书名：Python深度学习<br/>
