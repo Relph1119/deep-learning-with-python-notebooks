@@ -206,5 +206,4 @@ fabric.properties
 #   git rm -r .ipynb_checkpoints/
 #
 
-data/
 *.h5
